@@ -1,17 +1,17 @@
 # Syllabus
 
-* **Course:** [PHY325](http://amcdawes.com)
+* **Course:** [PHY325](http://physics325.github.io/)
 * **Instructors:** Dr. Dawes ([dawes@pacificu.edu](mailto:dawes@pacificu.edu))
 * Dr. Hall ([hall@pacificu.edu](mailto:hall@pacificu.edu))
 
 * **Need help?**
-  * Open an issue ticket for the project's repository
   * Office hours
     * Dawes: tbd
     * Hall: tbd
   * Stop by or email either of us for 1-on-1 help, or to set up a time to meet
+  * Open an issue ticket for the project's repository
 
-## Table of Contents
+<!-- ## Table of Contents
 * [Contents](#contents)
 * [Course description](#course-description)
 * [Prerequisites](#prerequisites)
@@ -29,55 +29,47 @@
   * [Tools](#tools)
   * [GitHub help](#github-help)
   * [Statements on Plagiarism](#statements-on-plagiarism)
-  * [License](#license)
+  * [License](#license) -->
 
 ## Course description
 
 
 ## Prerequisites
 
-* Basic programming skills in a language like Fortran, C, or C++
+* Basic proficiency with computer
 * Workshop Physics
-*
 
 ## Course objectives
 You will leave the course able to:
-* Use version control in Github and demonstrate an effective code management workflow.
-  *
-* Evaluate a system to model and select appropriate numerical methods for solution.
-  * based on the physics, what is the best model and explain why
+* Evaluate a model system and select appropriate numerical methods for solution.
+  * Based on the physics, choose the best model and explain why
+  * Identify proper scaling of relevant variables
 * Debug numerical models
-  * catch standard problems: loop tests,
+  * Catch typical implementation problems
+  * ??
+* Analyze and present data
+  * Generate clear figures from model data
+  * Draw conclusions based on numerical results
 * Verify that numerical results are consistent with a physical model
-  * Energy conservation, physical bounds, etc.
-*
+  * Energy is conserved
+  * Physical bounds respected
+* Use version control in Github and demonstrate an effective code management workflow.
+  * Proper use of clone, pull, push, and merge commands
+  * Clear and meaningful commit messages
 
-## Course overview (copied from ICCP, modify as needed)
+## Course overview
 
-* **Project 0:** Ising model
-  * Introduction to Fortran. Investigation of ferromagnetic dependence on temperature. The Metropolis algorithm. Lattices & boundary conditions.
-* **Project 1:** Molecular dynamics
-  * Numerical integration of the EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and temperature calculations. Data blocking and energy fluctuations.
-* **Project 2:** Advanced Monte Carlo
-  * Ising model revisit: the Wolff algorithm, critical phenomena, and data
-    structures
-  * Polymer conformations: the Rosenbluth algorithm(s), convergence, on- and
-    off-lattice models
-  * Variational Monte Carlo: the He/H2 ground states
-* **Project 3:** Students' choice
-  * Lattice Boltzmann
-  * Tight-binding
-  * Percolation
-  * DTFD quantum mechanics
-  * etc.
+* Project 1: Ising model
+* Project 2: Physical pendulum
+* Project 3:
 
 ### Due dates
 | Project                         |      |
 |---------------------------------|------|
-| Project 0: Ising model          | TBD  |
-| Project 1: Molecular Dynamics   | TBD  |
-| Project 2: Advanced Monte Carlo | TBD  |
-| Project 3: Students' Choice     | TBD  |
+| Project 1: Ising model          | TBD  |
+| Project 2: Molecular Dynamics   | TBD  |
+| Project 3: Advanced Monte Carlo | TBD  |
+| Project 4: Students' Choice     | TBD  |
 
 ## Grading
 
