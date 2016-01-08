@@ -93,13 +93,15 @@ Please **do not** include non-text files in your repository.
 
 ### Recommended reading
 
-* [Learning Github](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [What Computational Physics is Really About](http://www.wired.com/2015/11/what-computational-physics-is-really-about/)
 * [Computational Physics](http://www.amazon.com/Computational-Physics-Jos-Thijssen/dp/0521833469)
 * [The ICCP Coding Notes](https://github.com/ICCP/coding-notes/releases/download/v2015.1/coding_notes.pdf)
 * [Real Programmers Don't Use Pascal](http://www.pbm.com/~lindahl/real.programmers.html)
 
 ### Useful reference materials
-
+* [Learning Github](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
+* [Journal of Computational Physics](http://www.sciencedirect.com/science/journal/00219991)
 
 ### Tools
 
