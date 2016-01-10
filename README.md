@@ -99,6 +99,7 @@ Please **do not** include non-text files in your repository.
 * [Real Programmers Don't Use Pascal](http://www.pbm.com/~lindahl/real.programmers.html)
 
 ### Useful reference materials
+* [Learning IPython](http://site.ebrary.com.proxy.lib.pacificu.edu:2048/lib/pacificulib/detail.action?docID=10695775)
 * [Learning Github](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 * [Journal of Computational Physics](http://www.sciencedirect.com/science/journal/00219991)
