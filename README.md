@@ -46,7 +46,7 @@ You will leave the course able to:
   * Identify proper scaling of relevant variables
 * Debug numerical models
   * Catch typical implementation problems
-  * ??
+  * Isolate errors with code testing
 * Analyze and present data
   * Generate clear figures from model data
   * Draw conclusions based on numerical results
@@ -97,6 +97,7 @@ Please **do not** include non-text files in your repository.
 * [Computational Physics](http://www.amazon.com/Computational-Physics-Jos-Thijssen/dp/0521833469)
 * [The ICCP Coding Notes](https://github.com/ICCP/coding-notes/releases/download/v2015.1/coding_notes.pdf)
 * [Real Programmers Don't Use Pascal](http://www.pbm.com/~lindahl/real.programmers.html)
+* [12-steps to rock-solid python code](http://www.davidketcheson.info/2015/05/10/rock_solid_code.html)
 
 ### Useful reference materials
 * [Learning IPython](http://site.ebrary.com.proxy.lib.pacificu.edu:2048/lib/pacificulib/detail.action?docID=10695775)
