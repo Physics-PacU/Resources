@@ -11,26 +11,6 @@
   * Stop by or email either of us for 1-on-1 help, or to set up a time to meet
   * Open an issue ticket for the project's repository
 
-<!-- ## Table of Contents
-* [Contents](#contents)
-* [Course description](#course-description)
-* [Prerequisites](#prerequisites)
-* [Course overview](#course-overview)
-  * [Due dates](#due-dates)
-* [Grading](#grading)
-* [Homework/projects](#homeworkprojects)
-  * [Project info](#projectinfo)
-  * [Requirements](#requirements)
-  * [Workflow](#workflow)
-  * [Submission](#submission)
-* [External links](#external-links)
-  * [Required reading](#required-reading)
-  * [Beginner materials](#beginner-materials)
-  * [Tools](#tools)
-  * [GitHub help](#github-help)
-  * [Statements on Plagiarism](#statements-on-plagiarism)
-  * [License](#license) -->
-
 ## Course description
 A special topics course in physics with a focus on computational techniques and numerical methods used in physical science.
 
@@ -62,7 +42,7 @@ You will leave the course able to:
 * Project 1: TBD
 * Project 2: TBD
 * Project 3: TBD
-* Project 4: TBD
+* Final Project: TBD
 
 ### Due dates
 | Project    |      |
@@ -70,24 +50,31 @@ You will leave the course able to:
 | Project 1: | TBD  |
 | Project 2: | TBD  |
 | Project 3: | TBD  |
-| Project 4: | TBD  |
+| Final Project: | TBD  |
 
 ## Grading
 
-* Homework sets - 30%
-* Projects & reports – 25%
-* Midterm exams (2) - 10% each
-* "Final" - 25%
+* Homework sets - 35%
+  * Weekly problem sets are a mix of on-paper and in-notebook work. To be submitted by 5pm each Friday unless otherwise specified.
+* Projects & reports – 35%
+  * After week 8 we will begin to explore a broad range of topics and you will have the freedom to choose a topic to study. These projects will include a report written in the IPython Notebook that documents your work on the project. 
+* Midterm exam - 10%
+  * The midterm exam is an in-class written exam. 
+* Final exam - 20%
+  * The final exam will be a combination of an in-class written exam and a takehome final project. 
 
 ## Homework/projects
+The homework is your opportunity to practice the tools and techniques of computational physics. Expect to dedicate several hours per in-class hour to your homework. Homework can be completed while working in groups with the caveat that group work can lull you into a false sense of material mastery. The group won't be with you on the exam day, so be sure to practice in a way that prepares you for the individual experience of an exam. The best strategy for achieving mastery is to try homework on your own first. Start early, make some mistakes, create bugs, start over, make more mistakes, and try again. Computing is cheap and your mistakes are erased forever once you save the working version. If you are stuck, take a short break and come back to it. If you get stuck again, ask a specific question for help through your first hurdle. You will get much better help from us if you have already made some attempts at a given problem. Show us how you started and what happened. Often you will be closer to the right answer than you think!
+
+Projects are a deeper look at a specific topic using the tools we explor in class and on homework. You will have more say over the topic of the projects so feel free to look around within each topic for an application you find interesting. There are lots of computational physics resources online, the more you explore, the more you will learn how broad this field is.
 
 ### Workflow
 
 1. To start, [**fork**](https://guides.github.com/activities/forking/) a project repository
-1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
-1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
-1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
-1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commit and push them.
+2. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
+3. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
+4. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
+5. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commit and push them.
 
 Please **do not** include non-text files in your repository.
 
