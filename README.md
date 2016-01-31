@@ -39,7 +39,7 @@ A special topics course in physics with a focus on computational techniques and 
 * Basic proficiency with computer
 * Workshop Physics
 
-## Course objectives
+## Student Learning Objectives
 You will leave the course able to:
 * Evaluate a model system and select appropriate numerical methods for solution.
   * Based on the physics, choose the best model and explain why
@@ -52,7 +52,7 @@ You will leave the course able to:
   * Draw conclusions based on numerical results
 * Verify that numerical results are consistent with a physical model
   * Energy is conserved
-  * Physical bounds respected
+  * Physical bounds are respected
 * Use version control in Github and demonstrate an effective code management workflow.
   * Proper use of clone, pull, push, and merge commands
   * Clear and meaningful commit messages
