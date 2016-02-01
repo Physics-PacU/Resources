@@ -20,22 +20,24 @@ A special topics course in physics with a focus on computational techniques and 
 * Workshop Physics
 
 ## Student Learning Objectives
+
 You will leave the course able to:
-* Evaluate a model system and select appropriate numerical methods for solution.
-  * Based on the physics, choose the best model and explain why
-  * Identify proper scaling of relevant variables
-* Debug numerical models
-  * Catch typical implementation problems
-  * Isolate errors with code testing
-* Analyze and present data
-  * Generate clear figures from model data
-  * Draw conclusions based on numerical results
-* Verify that numerical results are consistent with a physical model
-  * Energy is conserved
-  * Physical bounds are respected
-* Use version control in Github and demonstrate an effective code management workflow.
-  * Proper use of clone, pull, push, and merge commands
-  * Clear and meaningful commit messages
+
+  * Evaluate a model system and select appropriate numerical methods for solution.
+    * Based on the physics, choose the best model and explain why
+    * Identify proper scaling of relevant variables
+  * Debug numerical models
+    * Catch typical implementation problems
+    * Isolate errors with code testing
+  * Analyze and present data
+    * Generate clear figures from model data
+    * Draw conclusions based on numerical results
+  * Verify that numerical results are consistent with a physical model
+    * Energy is conserved
+    * Physical bounds are respected
+  * Use version control in Github and demonstrate an effective code management workflow.
+    * Proper use of clone, pull, push, and merge commands
+    * Clear and meaningful commit messages
 
 ## Course overview
 
@@ -57,11 +59,11 @@ You will leave the course able to:
 * Homework sets - 35%
   * Weekly problem sets are a mix of on-paper and in-notebook work. To be submitted by 5pm each Friday unless otherwise specified.
 * Projects & reports – 35%
-  * After week 8 we will begin to explore a broad range of topics and you will have the freedom to choose a topic to study. These projects will include a report written in the IPython Notebook that documents your work on the project. 
+  * After week 8 we will begin to explore a broad range of topics and you will have the freedom to choose a topic to study. These projects will include a report written in the IPython Notebook that documents your work on the project.
 * Midterm exam - 10%
-  * The midterm exam is an in-class written exam. 
+  * The midterm exam is an in-class written exam.
 * Final exam - 20%
-  * The final exam will be a combination of an in-class written exam and a takehome final project. 
+  * The final exam will be a combination of an in-class written exam and a takehome final project.
 
 ## Homework/projects
 The homework is your opportunity to practice the tools and techniques of computational physics. Expect to dedicate several hours per in-class hour to your homework. Homework can be completed while working in groups with the caveat that group work can lull you into a false sense of material mastery. The group won't be with you on the exam day, so be sure to practice in a way that prepares you for the individual experience of an exam. The best strategy for achieving mastery is to try homework on your own first. Start early, make some mistakes, create bugs, start over, make more mistakes, and try again. Computing is cheap and your mistakes are erased forever once you save the working version. If you are stuck, take a short break and come back to it. If you get stuck again, ask a specific question for help through your first hurdle. You will get much better help from us if you have already made some attempts at a given problem. Show us how you started and what happened. Often you will be closer to the right answer than you think!
