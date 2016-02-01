@@ -81,9 +81,6 @@ Please **do not** include non-text files in your repository.
 ### Recommended reading
 
 * [What Computational Physics is Really About](http://www.wired.com/2015/11/what-computational-physics-is-really-about/)
-* [Computational Physics](http://www.amazon.com/Computational-Physics-Jos-Thijssen/dp/0521833469)
-* [The ICCP Coding Notes](https://github.com/ICCP/coding-notes/releases/download/v2015.1/coding_notes.pdf)
-* [Real Programmers Don't Use Pascal](http://www.pbm.com/~lindahl/real.programmers.html)
 * [12-steps to rock-solid python code](http://www.davidketcheson.info/2015/05/10/rock_solid_code.html)
 
 ### Useful reference materials
