@@ -81,7 +81,7 @@ Projects are a deeper look at a specific topic using the tools we explor in clas
 Please **do not** include non-text files in your repository.
 
 ### Recommended reading
-
+* [Computational Physics book by Ayers] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiFx-zvjNfKAhVN52MKHYSHD_sQFggcMAA&url=http%3A%2F%2Fphys.csuchico.edu%2Fayars%2F312%2FHandouts%2Fcomp-phys-python.pdf&usg=AFQjCNGQp9gnIZlUsSAguy_9lkVH4IgDpg&sig2=h2MJh2EqmS0oHx3AfqgSCw&bvm=bv.113034660,d.cGc&cad=rja)
 * [What Computational Physics is Really About](http://www.wired.com/2015/11/what-computational-physics-is-really-about/)
 * [12-steps to rock-solid python code](http://www.davidketcheson.info/2015/05/10/rock_solid_code.html)
 
