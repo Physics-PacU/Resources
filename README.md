@@ -6,7 +6,7 @@
 
 * **Need help?**
   * Office hours
-    * Dawes: tbd
+    * Dawes: Wed 2:05-3:00
     * Hall: tbd
   * Stop by or email either of us for 1-on-1 help, or to set up a time to meet
   * Open an issue ticket for the project's repository
