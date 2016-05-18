@@ -56,14 +56,14 @@ You will leave the course able to:
 
 ## Grading
 
-* Homework sets - 35%
+* Homework sets - 40%
   * Weekly problem sets are a mix of on-paper and in-notebook work. To be submitted by 5pm each Friday unless otherwise specified.
-* Projects & reports – 35%
+* Projects & reports – 40%
   * After week 8 we will begin to explore a broad range of topics and you will have the freedom to choose a topic to study. These projects will include a report written in the IPython Notebook that documents your work on the project.
-* Midterm exam - 10%
+* Midterm exam - 20%
   * The midterm exam is an in-class written exam.
-* Final exam - 20%
-  * The final exam will be a combination of an in-class written exam and a takehome final project.
+* Final exam
+  * There is not an in-class final exam. The final project will take the place of an in-class exam.
 
 ## Homework/projects
 The homework is your opportunity to practice the tools and techniques of computational physics. Expect to dedicate several hours per in-class hour to your homework. Homework can be completed while working in groups with the caveat that group work can lull you into a false sense of material mastery. The group won't be with you on the exam day, so be sure to practice in a way that prepares you for the individual experience of an exam. The best strategy for achieving mastery is to try homework on your own first. Start early, make some mistakes, create bugs, start over, make more mistakes, and try again. Computing is cheap and your mistakes are erased forever once you save the working version. If you are stuck, take a short break and come back to it. If you get stuck again, ask a specific question for help through your first hurdle. You will get much better help from us if you have already made some attempts at a given problem. Show us how you started and what happened. Often you will be closer to the right answer than you think!
