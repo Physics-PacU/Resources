@@ -4,8 +4,7 @@
 * **Instructor:** Dr. McDermott ([mcdermott@pacificu.edu](mailto:mcdermott@pacificu.edu))
 
 * **Need help?**
-  * Office hours
-    * McDermott: TBD
+  * Office hours: TBD
   * Stop by or email either of me for 1-on-1 help, or to set up a time to meet
   * Open an issue ticket for the project's repository
 
