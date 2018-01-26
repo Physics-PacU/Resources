@@ -3,7 +3,7 @@
 * **Course:** [PHY325](https://github.com/Physics-PacU), 4 credit hours
 * **Instructor:** Dr. McDermott ([mcdermott@pacificu.edu](mailto:mcdermott@pacificu.edu))
 * **Term:** Spring 2018
-* **Meeting Times: **  
+* __Meeting Times:__  
     * Class MWF 9:15am-10:20am
     * Lab Thursday 1-3:50pm
 
@@ -50,11 +50,9 @@ We will work on a weekly schedule and cover roughly one chapter of Newman per we
 
 ### Assessment Due dates
 
-| Assessment    |   Due Date   | Chapters |
-|------------|------|
-| Project 1 Presentations |  Friday, March 9 | Ch 1-5 |
-| Midterm - in class   |  Friday March 23 | Ch 1-7 |
-| Final Project | Monday, May 14 3:00pm – 5:30pm  | Ch 1-10 |
+* Project 1 Presentations -  Friday, March 9 - Ch 1-5
+* Midterm - in class - Friday March 23 - Ch 1-7
+* Final Project - Monday, May 14 3:00pm – 5:30pm  - Ch 1-10 
 
 
 ## Grading
