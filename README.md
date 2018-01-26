@@ -52,7 +52,7 @@ We will work on a weekly schedule and cover roughly one chapter of Newman per we
 
 * Project 1 Presentations -  Friday, March 9 - Ch 1-5
 * Midterm - in class - Friday March 23 - Ch 1-7
-* Final Project - Monday, May 14 3:00pm – 5:30pm  - Ch 1-10 
+* Final Project - Monday, May 14 3:00pm – 5:30pm  - Ch 1-10
 
 
 ## Grading
@@ -94,7 +94,7 @@ When you sign up for an account, enter "PHY325" in the Course Name box to link t
 * [Markdown Tutorial](https://www.markdowntutorial.com) & [Markdown Cheatsheet](https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed)
 * [Journal of Computational Physics](http://www.sciencedirect.com/science/journal/00219991)
 * [A Student's Guide to Physical Modeling with Python - Blog](http://physicalmodelingwithpython.blogspot.com)
-* [Numerical Recipes (in Python)] (http://numerical.recipes/nr3\_python\_tutorial.html)
+* [Numerical Recipes (in Python)](http://numerical.recipes/nr3\_python\_tutorial.html)
 
 ### Tools
 
