@@ -80,7 +80,7 @@ Please **do not** include non-text files in your repository.
 * [Computational Physics](http://www-personal.umich.edu/~mejn/computational-physics/) _Revised and Expanded_ book by Mark Newman
 * Course GitHub Account: [PHY325](https://github.com/Physics-PacU)
 * Course Runestone Account.  sign up here:
-[Interactive Physics](http://interactivepython.org/runestone/static/thinkcspy/index.html)  
+[Interactive Physics](https://runestone.academy/runestone/default/user/login)  
 When you sign up for an account, enter "PHY325" in the Course Name box to link to this class.  I will post some homework assignments here.
 
 ### Recommended Reading
