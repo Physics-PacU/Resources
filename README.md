@@ -9,7 +9,7 @@
 
 * **Need help?**
   * Office hours:
-    * MWF 10:30am-11:30am (Strain 115),
+    * MWF 10:30am-11:30am (Strain 108), and generally you can find me between 11:30-2pm in my office
     * T/Th 4-5pm (Price 108)
   * Stop by or email me for 1-on-1 help, or to set up a time to meet
   * Open an issue ticket for the project's repository
