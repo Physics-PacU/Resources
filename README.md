@@ -1,70 +1,17 @@
-# Short Syllabus - see the complete syllabus for much more information, including all course policies
+# Resources
 
 * **Course:** [PHY325](https://github.com/Physics-PacU), 4 credit hours
 * **Instructor:** Dr. McDermott ([mcdermott@pacificu.edu](mailto:mcdermott@pacificu.edu))
-* **Term:** Spring 2018
+* **Term:** Spring 2020
 * __Meeting Times:__  
     * Class MWF 9:15am-10:20am
-    * Lab Thursday 1-3:50pm
+    * Lab Thursday 1-4:00pm
 
 * **Need help?**
-  * Office hours:
-    * MWF 10:30am-11:30am (Strain 108), and generally you can find me between 11:30-2pm in my office
-    * T/Th 4-5pm (Price 108)
+  * Office hours: By appointment or ambush
   * Stop by or email me for 1-on-1 help, or to set up a time to meet
   * Open an issue ticket for the project's repository
   * Can't find me?  Ask Dr. Dawes or Dr. Hall.
-
-## Course description
-A special topics course in physics with a focus on computational techniques and numerical methods used in physical science.
-
-
-## Student Learning Objectives
-The aim is to assist you
-in developing skills essential for data analysis - both for physics applications and a career
-in scientific computing.
-This course covers the basics of transforming physics problems in a form readily solved by a computer algorithm.
-See the complete syllabus for a granular list of SLO,
-but here is a short breakdown.
-You will leave the course able to:
-
-  * Evaluate a model system and select appropriate numerical methods for solution.
-    * Based on the physics, choose the best model and explain why
-    * Identify proper scaling of relevant variables
-  * Debug numerical models
-    * Catch typical implementation problems
-    * Isolate errors with code testing
-  * Analyze and present data
-    * Generate clear figures from model data
-    * Draw conclusions based on numerical results
-  * Verify that numerical results are consistent with a physical model, _such as_
-    * Energy is conserved
-    * Physical bounds are respected
-  * Use version control in Github and demonstrate an effective code management workflow.
-    * Proper use of clone, pull, push, and merge commands
-    * Clear and meaningful commit messages
-
-## Course overview
-
-We will work on a weekly schedule and cover roughly one chapter of Newman per week.  Expect a lot of team work, both during class and for homework.  
-
-### Assessment Due dates
-
-* Project 1 Presentations -  Friday, March 9 - Ch 1-5
-* Midterm - in class - Friday March 23 - Ch 1-7
-* Final Project - Monday, May 14 3:00pm – 5:30pm  - Ch 1-10
-
-
-## Grading
-
-* Homework sets - 20%
-  * Weekly problem sets are a mix of on-paper and in-notebook work. To be submitted by 5pm each Friday unless otherwise specified.
-* Session Work - 20%
-* Lab Reports/Projects – 40%
-* Midterm exam - 20%
-  * The midterm exam is an in-class written exam.
-* Final exam
-  * There is not an in-class final exam. The final project will take the place of an in-class exam.
 
 ## Workflow
 
@@ -81,7 +28,7 @@ Please **do not** include non-text files in your repository.
 * Course GitHub Account: [PHY325](https://github.com/Physics-PacU)
 * Course Runestone Account.  sign up here:
 [Interactive Physics](https://runestone.academy/runestone/default/user/login)  
-When you sign up for an account, enter "PHY325" in the Course Name box to link to this class.  I will post some homework assignments here.
+When you sign up for an account, enter "PHY325" in the Course Name box to link to this class.  I will post early homework assignments here.
 
 ### Recommended Reading
 * [What Computational Physics is Really About](http://www.wired.com/2015/11/what-computational-physics-is-really-about/)
@@ -119,10 +66,6 @@ Since computer coding is generally a field where we reuse/adapt other people's c
 Teamwork and recycling code are common practices in industry, however, if you receive substantial help writing code from a fellow student, or use a help forum for more than a quick reference (on stackoverflow for instance), CREDIT THE SOURCE using the comment section.  If you actually copy-and-paste code from another source, you must:
 * understand how it works and what every piece of it does
 * tell me explicitly which code you copied and where you copied it from
-
-### Learning Support Services
-
-If you have documented challenges that will impede your learning in any way, please contact our LSS office in Clark Hall (ext.2171; lss@pacificu.edu). LSS staff will meet with students, review the documentation of their disabilities, and discuss the services that Pacific offers and any appropriate ADA accommodations for specific courses.
 
 ### License
 
